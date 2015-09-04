@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+A folder named .git will be created. This folder is neccessary for hoding commits.
