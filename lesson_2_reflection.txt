@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 A folder named .git will be created. This folder is neccessary for hoding commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is media period between working directory and repository. It's no longer a file but not yet a commit (metadata). So the value which it offers could be flexibility that allows us to change our mind in making commits anytime.
