@@ -8,3 +8,6 @@ Because the change I made could be wrong or not done.
 -Fork: copy a repository of others on GitHub server
 -Clone: copy a repository from server to local or locally
 -Branch: add a new way to the existing branch. 
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+- 
